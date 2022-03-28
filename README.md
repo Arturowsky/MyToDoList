@@ -1,4 +1,4 @@
-DEMO: www.arturlewandowicz.com/todolist/index.html
+DEMO: www.arturlewandowicz.com/todolist/index.html - link is broken. You have to download and run the code.
 
 # Getting Started with Create React App
 
